@@ -53,7 +53,7 @@
 						echo '<div class="alert alert-success">';
 						echo '	<h3>Success</h3>';
 						// let's insert a link so the user can view their post on tumblr
-						echo '	<p><a href="'.$blog_url.'.post/'.$response->response->id.'" target="_blank"><button class="btn btn-success">View Post</button></a></p>';
+						echo '	<p><a href="'.$blog_url.'post/'.$response->response->id.'" target="_blank"><button class="btn btn-success">View Post</button></a></p>';
 						echo '</div>';
 					} else {
 						echo '<div class="alert alert-danger">Could not post to Tumblr. Perhaps the API is down?</div>';
