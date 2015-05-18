@@ -1,17 +1,14 @@
-# Tumblr OAuth for Tumblr API v2
-
----
-
 # Update May 18, 2015
 
 ### I created a newer version which incorporates the official Tumblr library and has Twitter OAuth integration too: [@timgavin/twitter-tumblr-oauth](https://github.com/timgavin/twitter-tumblr-oauth)
+
 ---
 
+# Tumblr OAuth for Tumblr API v2
 
 ### Example code and screencast for integrating Tumblr OAuth into your PHP project.
 
 ### Screencast available at http://youtu.be/xdK0dXluKIQ
-
 
 ## Installation
 
