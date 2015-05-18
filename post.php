@@ -39,7 +39,7 @@
 					}
 					
 					// create the post url
-					// remove the protocal for posting to the api
+					// remove the protocol for posting to the api
 					// note: $blog_url already has a trailing slash...
 					$post_url = str_replace('http://', '', $blog_url);
 				
